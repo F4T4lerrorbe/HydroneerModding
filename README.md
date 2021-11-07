@@ -5,4 +5,6 @@
 *changed the waterpipes location in the store
 
 
-big THX to gamerkuipers/ResaloliPT/Rhino/Itchybeard/grandmaMax/Graham
+big THX to grandmaMax Creator off this Awsome Game
+
+gamerkuipers/ResaloliPT/Rhino/Itchybeard/Graham
