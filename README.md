@@ -2,9 +2,9 @@
 
 # Update 1.7
 
-*changed the waterpipes location in the store
+*Changed The Waterpipes location In The Store
 
 
-big THX to grandmaMax Creator off this Awsome Game
+Big THX to grandmaMax Creator Of This Awsome Game
 
 gamerkuipers/ResaloliPT/Rhino/Itchybeard/Graham
