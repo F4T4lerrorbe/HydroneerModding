@@ -5,6 +5,8 @@ ALL MODS NEED HydroUMH v1.05
 
 *Changed The Waterpipes location In The Store
 
+*InsiderTradingBoard press M to change the stockmarket (only works in creative mode)
+
 Big THX to grandmaMax Creator Of This Awsome Game
 
 Rhino for his Umh Hook 
